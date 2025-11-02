@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Floral Summer Dress",
+    "price": 45.99,
+    "color": "Pink",
+    "image": "https://images.unsplash.com/photo-1520975867593-85e8e8d5a2f7?auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Denim Jacket",
+    "price": 69.99,
+    "color": "Blue",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Casual White Blouse",
+    "price": 39.99,
+    "color": "White",
+    "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Evening Gown",
+    "price": 120.0,
+    "color": "Red",
+    "image": "https://images.unsplash.com/photo-1618354691320-8a1e4e1cfd50?auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Stylish Handbag",
+    "price": 89.0,
+    "color": "Beige",
+    "image": "https://images.unsplash.com/photo-1593032457860-9b20e04b7b1f?auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "id": 6,
+    "name": "Leather Boots",
+    "price": 99.99,
+    "color": "Brown",
+    "image": "https://images.unsplash.com/photo-1600180758890-6b94519a3a6c?auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "id": 7,
+    "name": "High-Waist Jeans",
+    "price": 59.99,
+    "color": "Dark Blue",
+    "image": "https://images.unsplash.com/photo-1521579971123-1192931a1452?auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "id": 8,
+    "name": "Classic Black Dress",
+    "price": 99.5,
+    "color": "Black",
+    "image": "https://images.unsplash.com/photo-1602810319228-ef62b41b9b9b?auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "id": 9,
+    "name": "Striped T-Shirt",
+    "price": 25.99,
+    "color": "White & Blue",
+    "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "id": 10,
+    "name": "Long Skirt",
+    "price": 55.0,
+    "color": "Gray",
+    "image": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "id": 11,
+    "name": "Wool Sweater",
+    "price": 74.99,
+    "color": "Cream",
+    "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "id": 12,
+    "name": "Casual Sneakers",
+    "price": 65.99,
+    "color": "White",
+    "image": "https://images.unsplash.com/photo-1528701800489-20be9c7e74c4?auto=format&fit=crop&w=500&q=80"
+  }
+]
