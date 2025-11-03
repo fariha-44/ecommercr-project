@@ -10,7 +10,8 @@ ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
     <ThemeProvider>
       <CartProvider>
-        <BrowserRouter>
+        {/* ✅ Add basename so React Router knows the project folder */}
+        <BrowserRouter basename="/ecommercr-project">
           <App />
         </BrowserRouter>
       </CartProvider>
